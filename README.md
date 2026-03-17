@@ -1,6 +1,8 @@
 # 📊 Data-Driven Insights into Ad Campaign ROI and User Engagement
 
 A comprehensive Power BI project focused on analyzing digital marketing campaign data across multiple platforms. Using DAX and Power Query, the report evaluates campaign efficiency, identifies the best-performing channels and ad formats, and presents insights into user behavior and seasonal trends. The project helps optimize advertising strategies and budget allocations to drive better ROI and higher conversion rates.
+<img width="1386" height="821" alt="marketing" src="https://github.com/user-attachments/assets/3ae2ffe9-acd2-42fb-bd78-997332c1b857" />
+<img width="1372" height="803" alt="sales" src="https://github.com/user-attachments/assets/bd3fb994-3eb1-4c44-96aa-6a1ce25e53e3" />
 
 ---
 
